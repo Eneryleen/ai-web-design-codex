@@ -7,6 +7,7 @@
 [![Cross-links](https://img.shields.io/badge/internal%20links-482%20%C2%B7%200%20broken-7c3aed)](#)
 [![Language](https://img.shields.io/badge/language-English-64748b)](#)
 [![Built for](https://img.shields.io/badge/built%20for-humans%20%26%20AI%20agents-f59e0b)](#-how-to-use-this-repo)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-d6336c)](LICENSE)
 
 ---
 
@@ -199,4 +200,4 @@ Each guide was researched by agents sweeping authoritative sources — Nielsen N
 
 ## 📄 License
 
-Private repository. © 2026 — all rights reserved, for personal and internal use.
+Licensed under [**CC BY 4.0**](LICENSE) — share and adapt for any purpose, including commercially, with attribution: *"AI Web Design Codex by Eneryleen"* + a link back to this repository.
